@@ -113,7 +113,7 @@ footer: ""
 
 <div align="center">
 
-<img src="fig/merit2-1.jpg" width="90%" style="margin-top:-60px;">
+<img src="fig/merit2-1.jpg" width="98%" style="margin-top:-60px;">
 
 </div>
 
@@ -140,4 +140,4 @@ footer: ""
 
 <!-- _class: title -->
 
-<h1 style="position:relative;top:-100%">パスワードマネージャで<br/>パスワード を<br/>もっと <strong style="background:linear-gradient(transparent 50%, #ffd785 0%);">安全に</strong> <strong style="background:linear-gradient(transparent 60%, #fec1fe 0%);">楽に</strong><br/>管理しよう。</h1>
+<h1 style="position:relative;top:-120%">パスワードマネージャで<br/>パスワード を<br/>もっと <strong style="background:linear-gradient(transparent 50%, #ffd785 0%);">安全に</strong> <strong style="background:linear-gradient(transparent 50%, #fec1fe 0%);">楽に</strong><br/>管理しよう。</h1>
