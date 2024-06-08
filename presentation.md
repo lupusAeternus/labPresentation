@@ -71,3 +71,10 @@ aa
 
 ---
 
+# フルに活用できていますか？
+
+<div align="center">
+
+<img src="fig/udunnopass.jpeg" width="75%">
+
+</div>
